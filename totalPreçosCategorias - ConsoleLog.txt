@@ -1,0 +1,6 @@
+[
+  'Preço total de Acessórios: 0',
+  'Preço total de Eletrodomésticos: 315752.67',
+  'Preço total de Eletrônicos: 203989.2',
+  'Preço total de Panelas: 4049.64'
+]
